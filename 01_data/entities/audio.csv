@@ -1,0 +1,5 @@
+id,title,place_id,century,type,file,tradition,description
+AU_001,Early Jerusalem Chant,PL_001,4,chant,audio/jerusalem_chant.mp3,Jerusalem,Reconstruction of early Jerusalem liturgical chant
+AU_002,Syriac Hymn of Ephrem,PL_006,4,hymn,audio/ephrem_hymn.mp3,Syriac,Representative Syriac hymnographic tradition
+AU_003,Romanos Kontakion,PL_004,6,kontakion,audio/romanos_kontakion.mp3,Byzantine,Byzantine kontakion tradition
+AU_004,Early Roman Chant,PL_003,4,chant,audio/roman_chant.mp3,Western,Early Roman liturgical chant
