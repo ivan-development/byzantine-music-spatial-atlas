@@ -1,0 +1,7 @@
+id,name,lat,lon,type,region,century,description
+PL_001,Jerusalem,31.7683,35.2137,community_center,Judea,1,Early Christian origin center
+PL_002,Antioch,36.2021,36.1605,community_center,Syria,1,Major missionary and liturgical center
+PL_003,Rome,41.9028,12.4964,patriarchal_center,Italy,1,Major Western Christian center associated with Peter and Paul
+PL_004,Constantinople,41.0082,28.9784,imperial_center,Byzantium,4,Central Byzantine liturgical and imperial center
+PL_005,Alexandria,31.2001,29.9187,patriarchal_center,Egypt,1,Major theological and hymnographic center
+PL_006,Edessa,37.1591,38.7969,hymnographic_center,Mesopotamia,2,Important Syriac Christian musical center
