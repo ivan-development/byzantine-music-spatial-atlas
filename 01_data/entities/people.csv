@@ -1,0 +1,7 @@
+id,name,place_id,century,role,tradition,language,description
+PS_001,Jesus Christ,PL_001,1,founder,Early Christianity,Aramaic,Founder of Christianity in Judea
+PS_002,Paul the Apostle,PL_002,1,missionary,Apostolic,Greek,Major missionary of early Christianity
+PS_003,Peter the Apostle,PL_003,1,apostle,Apostolic,Aramaic/Greek,Associated with Roman Christian tradition
+PS_004,Athanasius of Alexandria,PL_005,4,church_father,Patristic,Greek,Major theological and liturgical authority
+PS_005,Ephrem the Syrian,PL_006,4,hymnographer,Syriac, Syriac,Foundational Syriac hymnographer
+PS_006,Romanos the Melodist,PL_004,6,hymnographer,Byzantine,Greek,Major Byzantine kontakion composer
