@@ -1,0 +1,5 @@
+id,title,place_id,image,type,tradition,century,description
+NT_001,Jerusalem Early Chant Notation,PL_001,03_media/notation/jerusalem_neumes.png,neumes,Jerusalem,4,Early chant notation tradition from Jerusalem
+NT_002,Syriac Hymn Manuscript,PL_005,03_media/notation/syriac_manuscript.png,manuscript,Syriac,4,Syriac hymnographic notation style
+NT_003,Byzantine Neumes System,PL_004,03_media/notation/byzantine_neumes.png,neumes,Byzantine,6,Developed Byzantine musical notation system
+NT_004,Roman Chant Notation,PL_003,03_media/notation/roman_notation.png,notation,Western,4,Early Western liturgical notation
