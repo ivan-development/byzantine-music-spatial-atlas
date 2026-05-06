@@ -1,0 +1,15 @@
+source_id,target_id,relation_type,description
+PL_001,AU_001,has_audio,Jerusalem chant originates from Jerusalem
+PL_001,NT_001,has_notation,Early neume notation linked to Jerusalem tradition
+
+PL_005,AU_002,has_audio,Syriac hymn tradition of Ephrem
+PL_005,NT_002,has_notation,Syriac manuscript notation style
+
+PL_004,AU_003,has_audio,Byzantine kontakion tradition
+PL_004,NT_003,has_notation,Byzantine neume system
+
+PL_003,AU_004,has_audio,Early Roman chant tradition
+PL_003,NT_004,has_notation,Western early notation system
+
+AU_002,PS_005,composed_by,Ephrem is author of Syriac hymns
+AU_003,PS_006,composed_by,Romanos is composer of kontakion tradition
